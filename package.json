@@ -1,0 +1,31 @@
+{
+  "name": "com.henuo.loopscrollrect",
+  "version": "1.1.2",
+  "displayName": "LoopScrollRect",
+  "description": "这是本人整理的UPM插件,并非是本人开发 著作权由开发者所有 开发者github:https://github.com/qiankanglai/LoopScrollRect.git",
+  "repository": {
+      "type": "git",
+      "url": "ssh://git@github.com:qiankanglai/LoopScrollRect.git"
+  },
+  "unity": "2019.4",
+  "documentationUrl": "https://github.com/qiankanglai/LoopScrollRect/blob/master/README.md",
+  "licensesUrl": "https://github.com/qiankanglai/LoopScrollRect/blob/master/LICENSE.md",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "UGUI"
+  ],
+  "author": {
+    "name": "HeNuo",
+    "email": "qiankanglai@gmail.com",
+    "url": "https://qiankanglai.me"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Contains several Loop Scroll demo",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
